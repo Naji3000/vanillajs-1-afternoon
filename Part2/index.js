@@ -9,3 +9,6 @@ function setCard(){
     card.style.color = colorInput.value
 }
 // console.log("hello World!");
+function refreshPage() {
+    window.location.reload();
+}
